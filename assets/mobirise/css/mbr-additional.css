@@ -2342,18 +2342,22 @@ body {
   line-height: 44px;
 }
 .cid-qRiuxOsJcS .btn-social {
-  border-color: #c1c1c1;
+  border-color: #ef7f3c;
 }
 .cid-qRiuxOsJcS .btn-social:hover {
-  background: #c1c1c1;
+  background: #ef7f3c;
 }
 .cid-qRiuxOsJcS .btn-social:hover i.socicon {
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 @media (max-width: 767px) {
   .cid-qRiuxOsJcS .btn {
     font-size: 20px !important;
   }
+}
+.cid-qRiuxOsJcS .btn-social,
+.cid-qRiuxOsJcS .mbr-section-title {
+  color: #ffffff;
 }
 .cid-qRbddFXpkw .navbar {
   padding: .5rem 0;
